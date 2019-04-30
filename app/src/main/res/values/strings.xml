@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Alone 2</string>
+    <string name="rec_button">Record</string>
+    <string name="play_button">Play</string>
+    <string name="recordings_btn">Recordings</string>
+    <string name="save_button">save</string>
+</resources>
